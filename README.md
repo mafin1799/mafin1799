@@ -16,15 +16,4 @@
   width="300" height="300"/>
 </div>
 
-
-### :man_technologist:
----
-Я разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы.
-
-- :telescope: Работаю web-программистом. Создаю сервисы для web-приложений. Интегрирую решения сторонних компаний.
-
-- :seedling: Документирую код и разбираю legacy
-
-- :zap: В свободное время занимаюсь своими небольшими проектами
-
-- :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&amp;logo=Telegram&amp;color=26A5E4)](https://t.me/mafin1799)
+> :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&amp;logo=Telegram&amp;color=26A5E4)](https://t.me/mafin1799)
