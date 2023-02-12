@@ -15,5 +15,3 @@
   <img src="https://media0.giphy.com/media/QVreOR83Fgr67g2WFJ/giphy.gif?cid=790b7611e35cced5a3a7667b66ac8a1f2d671fb4cc8f4fdc&rid=giphy.gif&ct=g" 
   width="300" height="300"/>
 </div>
-
-> :mailbox: Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-informational?style=flat&amp;logo=Telegram&amp;color=26A5E4)](https://t.me/mafin1799)
