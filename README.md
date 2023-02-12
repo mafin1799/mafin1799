@@ -17,7 +17,7 @@
 </div>
 
 
-### :man_technologist: About Me :
+### :man_technologist:
 ---
 Я разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы.
 
