@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 ---
-Я веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы.
+Я разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы.
 
 - :telescope: Работаю web-программистом. Создаю сервисы для web-приложений. Интегрирую решения сторонних компаний.
 
