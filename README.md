@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://vk.com/mafffinn" rel="nofollow">
         <img src="https://img.shields.io/badge/VK-informational?style=flat&amp;logo=VK&amp;color=0077FF" style="max-width: 100%;">
