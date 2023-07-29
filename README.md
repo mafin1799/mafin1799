@@ -3,7 +3,7 @@
     <a href="https://vk.com/mafffinn" rel="nofollow">
         <img src="https://img.shields.io/badge/VK-informational?style=flat&amp;logo=VK&amp;color=0077FF" style="max-width: 100%;">
     </a>
-    <a href="https://t.me/mafin1799" rel="nofollow">
+    <a href="https://t.me/macmafin_17" rel="nofollow">
     <img src="https://img.shields.io/badge/Telegram-informational?style=flat&amp;logo=Telegram&amp;color=26A5E4" style="max-width: 100%;">
     </a>
 </div>
