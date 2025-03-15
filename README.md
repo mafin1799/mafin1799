@@ -17,5 +17,5 @@
 - Почти дописал статью для Доки
 
 ## 📈 Статистика
-![Ваша статистика](https://github-readme-stats.vercel.app/api?username=mafin1799&show_icons=true&theme=radical)
+![Ваша статистика](https://github-readme-stats.vercel.app/api?username=mafin1799&show_icons=true)
 
